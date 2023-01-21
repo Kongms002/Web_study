@@ -1,7 +1,5 @@
 ### 제목(Heading)
-```
-&lt;h&gt;(내용)&lt;/h&gt; (h1~h6으로 크기 조정)
-```
+```&lt;h&gt;(내용)&lt;/h&gt; (h1~h6으로 크기 조정)```
 ### 단락(Paragraph)
 ```&lt;p&gt;(내용)&lt;/p&gt;```
 #### HTML코드의 띄어쓰기 반영 안됨
