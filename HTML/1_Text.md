@@ -62,7 +62,3 @@
 ```<abbr title="(내용)">(내용)</abbr>```<br>
 ### 주소 표현
 ```<address>(내용)</address>```<br>
-#### 예시
-| HTML코드 | HTML문서 |
-|:-----:|:-----:|
-|```<q>인용했습니다.</q><abbr title="Kongms002">마우스 위치시켜보세요.</abbr>```|<q>인용했습니다.</q><abbr title="Kongms002">마우스 위치시켜보세요.</abbr>|
