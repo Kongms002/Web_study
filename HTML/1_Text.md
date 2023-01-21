@@ -47,10 +47,22 @@
 |```<p><del>안녕</del><ins>하세요</ins></p>```|<p><del>안녕</del><ins>하세요</ins></p>|
 
 ### 위첨자와 아래첨자 효과
-```<sup>(내용)</sup> (위첨자)```
-```<sub>(내용)</sub> (아래첨자)```
+```<sup>(내용)</sup> (위첨자)```<br>
+```<sub>(내용)</sub> (아래첨자)```<br>
 | HTML코드 | HTML문서 |
 |:-----:|:-----:|
 |```<p>X<sup>2</sup> + log<sub>2</sub>Y```|<p>X<sup>2</sup> + log<sub>2</sub>Y</p>|
 
-
+## 인용구(Quotation)
+### 짧은 인용구
+```<q>(내용)</q>```<br>
+### 블록 인용구
+```<blockquote>(내용)</blockquote>```<br>
+### 축약형 표현
+```<abbr title="(내용)">(내용)</abbr>```<br>
+### 주소 표현
+```<address>(내용)</address>```<br>
+#### 예시
+| HTML코드 | HTML문서 |
+|:-----:|:-----:|
+|```<q>인용했습니다.</q><abbr title="Kongms002">마우스 위치시켜보세요.</abbr><address>인천 남동구</address>```|<q>인용했습니다.</q><abbr title="Kongms002">마우스 위치시켜보세요.</abbr><address>인천 남동구</address>|
