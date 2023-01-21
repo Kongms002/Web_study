@@ -1,5 +1,5 @@
 ## 제목(Heading)
-태그 &lt;h&gt;(내용)&lt;/h&gt;(h1~h6으로 크기 조정)
+태그 &lt;h&gt;(내용)&lt;/h&gt; (h1~h6으로 크기 조정)
 
 ## 단락(Paragraph)
 태그 &lt;p&gt;(내용)&lt;/p&gt;
