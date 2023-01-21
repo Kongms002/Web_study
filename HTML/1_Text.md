@@ -78,6 +78,10 @@
 |&apos;|```&apos;```|```&#39;```|작은따옴표|
 
 ### 발음 구별 부호(diacritical marks) (참고)
-a&#768; ```a&#768;``` / a&#769; ```a&#769;```
+a&#768; -> ```a&#768;``` / a&#769; -> ```a&#769;```<br>
 ### 심볼 특수문자(Symbol) (참고)
-&times; ```&times; / &#215;``` / &divide; ```&divide; / &#247;```
+&times; -> ```&times; / &#215;``` / &divide; -> ```&divide; / &#247;```<br>
+
+## 문자셋(Character Set)
+<head> 태그 내의 <meta> 태그에 명시
+  HTML5에서 UTF-8의 경우 -> ```<meta charset="UTF-8">```
