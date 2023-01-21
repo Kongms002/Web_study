@@ -3,6 +3,5 @@
 
 ## 단락(Paragraph)
 태그 &lt;p&gt; &lt;/p&gt;
-
-### 띄어쓰기 반영 안됨
-### 줄 나누기 &lt;br&gt;(break line)
+#### 띄어쓰기 반영 안됨
+#### 줄 나누기 &lt;br&gt;(break line)
