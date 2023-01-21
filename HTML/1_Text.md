@@ -83,5 +83,5 @@ a&#768; -> ```a&#768;``` / a&#769; -> ```a&#769;```<br>
 &times; -> ```&times; / &#215;``` / &divide; -> ```&divide; / &#247;```<br>
 
 ## 문자셋(Character Set)
-<head> 태그 내의 <meta> 태그에 명시
+&lt;head&gt; 태그 내의 &lt;meta&gt; 태그에 명시
   HTML5에서 UTF-8의 경우 -> ```<meta charset="UTF-8">```
